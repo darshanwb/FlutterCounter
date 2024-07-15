@@ -1,2 +1,2 @@
 # FlutterCounter
-Flutter Counter App using Code block Structure.
+Create Counter App using flutetr bloc code Structure.
